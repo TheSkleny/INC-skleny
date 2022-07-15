@@ -9,6 +9,6 @@ It costed me two nights of mental breakdowns because deadline was right before f
 
 ## How does it work
 
-I'm doing this repo few months after ending this course, so I don't remember anything about it, only that important files are *uart_fsm.vhd* and *uart.vhd*
+I'm doing this repo few months after ending this course, so I don't remember anything about it, only that important files are *uart_fsm.vhd* and *uart.vhd*. Everything else is magic to me now (and was even when I was creating it)
 
 Never again.
