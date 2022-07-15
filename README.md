@@ -5,7 +5,7 @@ Repository with my solution of INC project in the schoolyear of 2021/2022 on FIT
 ## Intro :)
 
 This project was designed to introduce us to basics of HW design and basics of VHDL language. It's a project, which everyone forgets about and does it few hours before deadline (me included). Same as this course.
-It costed me two nights of mental breakdowns because deadline was right before first examination and was neccesary for ending this course succesfully.
+It costed me two nights of mental breakdowns because deadline was right before first examination and this project was neccesary for ending this course succesfully.
 
 ## How does it work
 
